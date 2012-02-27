@@ -1,0 +1,7 @@
+<webscript>
+   <shortname>Get Badges</shortname>
+   <description>Returns a list of badges awarded to the current user.</description>
+   <family>Alfresco Rewards</family>
+   <url>/com/redpill/get-badges</url>
+   <authentication>user</authentication>
+</webscript>
